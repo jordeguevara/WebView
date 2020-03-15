@@ -61,7 +61,7 @@ class TestWebView extends Component {
     );
   }
 }
-
+console.log('two');
 export default class App extends Component {
   constructor(props) {
     super(props);
