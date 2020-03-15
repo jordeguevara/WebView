@@ -119,6 +119,8 @@ export default class App extends Component {
   }
 }
 
+console.log('3');
+
 const styles = StyleSheet.create({
   container: {
     flex: 1,
